@@ -18,4 +18,3 @@ Covid19_d.csv: number of death caused by Covid19
 Covid19_p.csv: number of newly infections 
 Covid19_s.csv: number of severe cases
 population.csv: population 
-prefecture.ndjson: number of vaccinated 
